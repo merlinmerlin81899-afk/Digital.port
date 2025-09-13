@@ -1,0 +1,13 @@
+// This script would typically be in a separate file (e.g., script.js)
+// and linked to the HTML file with <script src="script.js"></script>
+
+// You can add JavaScript functionality here in the future
+// For example, dynamic content loading, form validation, etc.
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    console.log("Portfolio page loaded successfully!");
+    // You could add more interactive features here, for example:
+    // const aboutSection = document.getElementById('about');
+    // aboutSection.style.backgroundColor = 'lightblue';
+});
+
